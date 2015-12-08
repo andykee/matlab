@@ -1,0 +1,2 @@
+function la
+!ls -la
