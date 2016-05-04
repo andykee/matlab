@@ -6,4 +6,4 @@
 
 function e = rmse(Y)
 
-e = sqrt(Y(:)'*Y(:)/numel(Y(:)));
+e = sqrt(Y(:)'*Y(:)/numel(Y));
