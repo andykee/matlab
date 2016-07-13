@@ -2,7 +2,8 @@
 %
 % M = PV(A)
 
-% Andy Kee 5/4/2016
+% Andy Kee
+% May 2016
 
 function m = pv(A)
 

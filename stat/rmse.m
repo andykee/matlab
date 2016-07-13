@@ -2,7 +2,8 @@
 %
 % E = RMSE(Y)
 
-% Andy Kee 5/4/2016
+% Andy Kee 
+% May 2016
 
 function e = rmse(Y)
 
